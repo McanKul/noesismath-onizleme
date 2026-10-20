@@ -4,4 +4,4 @@
 :HL["/noesismath-onizleme/domino/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"neden-olimpiyat","h":64,"c":"$Q2"}]]
-0:{"b":"WdyT--PO3qPdCB5NpuPVc","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"s2neb8G5Lm6Vah9rwguwo","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
