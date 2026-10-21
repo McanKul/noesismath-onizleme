@@ -9,4 +9,4 @@
 :HL["/noesismath-onizleme/_next/static/chunks/15_sxx_67i4fh.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"poster","h":96,"c":"$Q2"}]]
-0:{"b":"SCiC5xd7d-t3snnSzGN_H","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9BOec-A9s7P9tHoBzeAzQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
