@@ -1,0 +1,7 @@
+:HL["/noesismath-onizleme/formul/_next/static/media/1995f8c0ebebeccd-s.p.2ym2ta1kz5kj_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/noesismath-onizleme/formul/_next/static/media/62c2ceb5e93c1826-s.p.38-aukekfqnuh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/noesismath-onizleme/formul/_next/static/media/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/noesismath-onizleme/formul/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"iletisim","h":64,"c":"$Q2"}]]
+0:{"b":"xEN15W7DRWucXjPH7yWVU","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

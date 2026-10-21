@@ -4,4 +4,4 @@
 :HL["/noesismath-onizleme/domino/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"iletisim","h":64,"c":"$Q2"}]]
-0:{"b":"uSA8rmYtdL616-CXSs8sB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"rM6GZK68jfbHC2CICobZ2","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
