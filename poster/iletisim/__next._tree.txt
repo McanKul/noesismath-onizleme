@@ -9,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"iletisim","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"poster","h":96,"c":"$Q2"}]]
-0:{"b":"be0UY0RfNLC20rZd6qLJ5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"WZk1PaLoaeDF8MNICan2S","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

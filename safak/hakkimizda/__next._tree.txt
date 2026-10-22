@@ -4,4 +4,4 @@
 :HL["/noesismath-onizleme/safak/_next/static/media/f3b6bc6f21a9e120-s.p.0yy4mrhy923po.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"hakkimizda","h":64,"c":"$Q2"}]]
-0:{"b":"-3GLrLLT9yiHiX1wChW9f","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"vLEyLYZ40M26S6q_fW0qx","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
