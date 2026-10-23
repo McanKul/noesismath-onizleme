@@ -2,6 +2,6 @@
 :HL["/noesismath-onizleme/formul/_next/static/media/62c2ceb5e93c1826-s.p.38-aukekfqnuh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/noesismath-onizleme/formul/_next/static/media/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/noesismath-onizleme/formul/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/noesismath-onizleme/formul/noesis/noesis-wave-354.webp","image",{"imageSrcSet":"/noesismath-onizleme/formul/noesis/noesis-wave-354.webp 354w, /noesismath-onizleme/formul/noesis/noesis-wave-708.webp 708w","imageSizes":"(min-width: 64rem) 24rem, 16rem"}]
+:HL["/noesismath-onizleme/formul/noesis/noesis-wave-358.webp","image",{"imageSrcSet":"/noesismath-onizleme/formul/noesis/noesis-wave-358.webp 358w, /noesismath-onizleme/formul/noesis/noesis-wave-716.webp 716w","imageSizes":"(min-width: 64rem) 24rem, 16rem"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"ThlnDSUxztOjwzBeXGR7U","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"3gMpTCUoLZAk7K9ls4d1p","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

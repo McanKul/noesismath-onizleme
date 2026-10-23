@@ -3,4 +3,4 @@
 :HL["/noesismath-onizleme/domino/_next/static/media/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/noesismath-onizleme/domino/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"goHEPfoF-VsIkJAeHTTzZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Epm9lGkR4sNx0TfWCCH_b","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
