@@ -4,4 +4,4 @@
 :HL["/noesismath-onizleme/formul/_next/static/media/e664fdf150ece08d.p.0uclrktt8h78d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/noesismath-onizleme/formul/noesis/noesis-wave-358.webp","image",{"imageSrcSet":"/noesismath-onizleme/formul/noesis/noesis-wave-358.webp 358w, /noesismath-onizleme/formul/noesis/noesis-wave-716.webp 716w","imageSizes":"(min-width: 64rem) 24rem, 16rem"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"3gMpTCUoLZAk7K9ls4d1p","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"fVNao0Ov2uiZY3SDb9r6w","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
