@@ -26,7 +26,7 @@ e:I[68027,["$d"],"default",1]
 9:X
 a:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$Lb","p":false,"v":null}}]]
 7:[["children",{"s":"neden-olimpiyat","h":512,"d":{"r":"$L8","p":false,"v":"$9"},"c":"$Qa"}]]
-0:{"P":null,"c":["","neden-olimpiyat",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","style","0",{"nonce":"$undefined","precedence":"next","href":"/noesismath-onizleme/domino/_next/static/chunks/2c6go9m17m06e.css","children":"$2"}],"$L3","$L4","$L5"],"$L6"]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":"$Lc","p":false,"v":null}},"m":"$undefined","G":["$e",["$Lf","$L10","$L11"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BYRRbJLRi2TPU6wYWAhnv"}
+0:{"P":null,"c":["","neden-olimpiyat",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","style","0",{"nonce":"$undefined","precedence":"next","href":"/noesismath-onizleme/domino/_next/static/chunks/2c6go9m17m06e.css","children":"$2"}],"$L3","$L4","$L5"],"$L6"]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":"$Lc","p":false,"v":null}},"m":"$undefined","G":["$e",["$Lf","$L10","$L11"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ffwJnfBkiOluw5qznCr8f"}
 13:I[22016,["$d"],""]
 14:I[5500,["$d"],"Image"]
 15:I[53870,["$d"],"MenuToggle"]
