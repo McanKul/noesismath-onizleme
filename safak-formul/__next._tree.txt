@@ -4,4 +4,4 @@
 :HL["/noesismath-onizleme/safak-formul/_next/static/media/f3b6bc6f21a9e120-s.p.0yy4mrhy923po.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/noesismath-onizleme/safak-formul/noesis/noesis-wave-358.webp","image",{"imageSrcSet":"/noesismath-onizleme/safak-formul/noesis/noesis-wave-358.webp 358w, /noesismath-onizleme/safak-formul/noesis/noesis-wave-716.webp 716w","imageSizes":"(min-width: 75rem) 18rem, (min-width: 48rem) 13rem, 9.5rem"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"K9UDhvaPeidb0PFdLw88n","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"KDu00NAvya7W87IgwnXF7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
